@@ -1,4 +1,4 @@
-<img width="800" height="741" alt="Descriptive Analysis" src="https://github.com/user-attachments/assets/358da729-a377-4c03-985d-ff573c8df1fa" />
+
 # 🌍 Global Petrol Market Analysis  
 ### Descriptive · Statistical · Predictive Analytics
 
