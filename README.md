@@ -1,3 +1,4 @@
+<img width="800" height="741" alt="Descriptive Analysis" src="https://github.com/user-attachments/assets/358da729-a377-4c03-985d-ff573c8df1fa" />
 # 🌍 Global Petrol Market Analysis  
 ### Descriptive · Statistical · Predictive Analytics
 
@@ -65,6 +66,7 @@ The analysis is structured into:
   - Median: **180 gallons/year**
   - Range: **2 – 3680 gallons**
 
+<img width="800" height="741" alt="Descriptive Analysis" src="https://github.com/user-attachments/assets/e14dc081-b453-433c-aac3-bfe94ccb37fa" />
 ---
 
 ## 📈 2. Statistical Analytics
@@ -101,6 +103,9 @@ The analysis is structured into:
 | Q3 | $1.79 |
 
 Most countries fall within this band.
+
+
+<img width="840" height="779" alt="Statistical Analysis" src="https://github.com/user-attachments/assets/ef9ea314-dcf0-488b-aeaa-84db864516ba" />
 
 ---
 
@@ -162,6 +167,9 @@ Indicates:
 - Economic leverage  
 - Domestic production advantage  
 - Strong policy influence  
+
+
+<img width="850" height="760" alt="Predictive Analysis" src="https://github.com/user-attachments/assets/2c20cd61-c925-4344-9da0-987d212c0d0d" />
 
 ---
 
